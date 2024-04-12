@@ -1,6 +1,8 @@
-# driverassistant
+# Driver Assistant
 
-Driver Behaviour Analysis
+•	Created a system that alerts users to aggressive driving behavior in real-time.
+•	Employed random forest algorithm on driving behavior dataset to develop a robust model, complemented by an API built on Flask for seamless integration. 
+•	Implemented a user-friendly interface and alert system using Flutter with the Provider library, effectively communicating with the Flask APIs for data retrieval and processing.
 
 ## Getting Started
 
